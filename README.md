@@ -63,6 +63,11 @@ La facturación y el ticket promedio consideran únicamente los pedidos con esta
 ## 9. Estructura del repositorio
 
 ```
-analisis-comercial-ecommerce/
+Analisis-E-commerce/
 ├── README.md
-├── informe/
+├── informe/Analisis_comercial_E-commerce.pdf
+├── dashboard/dsahboard_analisis_ecommerce.pbix
+├── sql/
+│   └── consultas.sql
+└── img/
+```
