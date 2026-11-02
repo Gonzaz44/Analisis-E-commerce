@@ -1,5 +1,5 @@
 # Análisis comercial de un E-commerce
-
+![Banner del proyecto](banner.png)
 
 
 ## 1. Descripción del proyecto
