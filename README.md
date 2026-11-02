@@ -65,9 +65,13 @@ La facturación y el ticket promedio consideran únicamente los pedidos con esta
 ```
 Analisis-E-commerce/
 ├── README.md
-├── informe/Analisis_comercial_E-commerce.pdf
-├── dashboard/dsahboard_analisis_ecommerce.pbix
-├── sql/
-│   └── consultas.sql
-└── img/
+├── Analisis_comercial_E-commerce.pdf
+├── dashboard_analisis_ecommerce.pbix
+└── consultas.sql
 ```
+
+---
+
+**Desarrollado por Gonzalo Invaldi** como parte de mi portfolio de Data Analyst.
+
+[LinkedIn](https://www.linkedin.com/in/gonzalo-invaldi-imaz-855724142)
