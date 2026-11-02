@@ -1,4 +1,4 @@
-/*
+/* .
 PROYECTO: Análisis de ventas de un e-commerce
 
 OBJETIVO: Analizar el desempeño de las ventas, la facturación,
