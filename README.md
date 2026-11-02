@@ -58,7 +58,7 @@ La facturación y el ticket promedio consideran únicamente los pedidos con esta
 
 - [Informe ejecutivo (PDF)](informe/Analisis_comercial_E-commerce.pdf): resultados, conclusiones y propuestas de mejora comercial.
 - [Dashboard en Power BI](dashboard/dsahboard_analisis_ecommerce.pbix): indicadores comerciales interactivos.
-- [Consultas SQL](sql/consultas.sql): consultas utilizadas en el análisis.
+- [Consultas SQL](consultas.sql): consultas utilizadas en el análisis.
 
 ## 9. Estructura del repositorio
 
